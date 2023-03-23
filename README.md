@@ -1,6 +1,6 @@
 ### Hi there I'm Micael, a Junior Web Developer!👋
 
-- I speak -> :fr: :us: 🇵🇹 :es: :jp:
+- 🔈 I speak -> :fr: :us: 🇵🇹 :es: :jp:
 
 - 📫 How to reach me: 
   - Via email address -> micaeldemiranda.pro@gmail.com
