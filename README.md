@@ -7,12 +7,11 @@
   - Via Linkedin -> https://www.linkedin.com/in/micaeldemiranda/
   
 - 🔭 I’m currently working on :
-  - Finding my first professional experience as Web Developer
+  - Finding my first professional experience as a Web Developer
   - Creating my portfolio
-  - Updating all my socials with everything that happened since I became a Web Developer -> Linkedin, GitHub, Resume...
 
 - 🌱 I’m currently learning :
-  - Going deeper in Ruby and Ruby on Rails to prepare for the Web Developer Certification
+  - Going deeper in Ruby and Ruby on Rails to prepare for my first professional experience!
   
 - 👯 I’m looking to collaborate on :
   - Any project you would like me to be apart of! I can help with Design, UX/UI, Back/Front-end Programming, Gamification...
